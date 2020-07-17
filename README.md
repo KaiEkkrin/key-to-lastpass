@@ -1,2 +1,3 @@
 # key-to-lastpass
-Converts my F-Secure Key export to LastPass CSV format
+I used this program to convert a JSON format export from F-Secure Key into the Generic CSV format accepted by LastPass.
+
