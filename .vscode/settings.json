@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.automationShell.windows": "",
+    "terminal.integrated.shellArgs.windows": [
+        "-ExecutionPolicy",
+        "ByPass",
+        "-NoExit",
+        "-Command",
+        "& 'C:\\tools\\Anaconda3\\shell\\condabin\\conda-hook.ps1' ; conda activate 'C:\\tools\\Anaconda3' "
+    ]
+}
